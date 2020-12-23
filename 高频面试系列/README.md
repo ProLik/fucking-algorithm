@@ -4,4 +4,3 @@
 
 欢迎关注我的公众号 labuladong，查看全部文章：
 
-![labuladong二维码](../pictures/qrcode.jpg)
